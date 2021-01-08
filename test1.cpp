@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-    cout << "Enter a number: ";
+    double num;
 
-    int num;
+    cout << "Enter a real number => ";
     cin >> num;
 
     cout << "You entered the number " << num << endl;
